@@ -66,7 +66,6 @@ Iris-flower-Classifier/
 │
 ├── iris_classifier.ipynb
 ├── README.md
-└── requirements.txt (optional)
 ```
 
 ## 🚀 Getting Started
